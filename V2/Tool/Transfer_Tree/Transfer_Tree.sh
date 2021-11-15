@@ -1,0 +1,1 @@
+python Tool/Transfer_Tree/Transfer_Tree.py -I "/eos/user/y/yusong/qilong/EFT/Merged/VVV_10_6_MERGED/WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8.root" -O "/eos/user/y/yusong/qilong/EFT/Merged/VVV_10_6_MERGED/Transfer_Tree_11_14/WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8.root" -m
